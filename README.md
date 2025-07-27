@@ -54,11 +54,5 @@ Welcome to my portfolio of data science projects, showcasing my skills in data a
 
 ---
 
-### **Important Tips:**
 
-* **Make all linked repositories Public:** Double-check that all individual project repositories linked from your main portfolio `README.md` are set to "Public" on GitHub.
-* **Clean and Document Individual Repos:** Ensure each of your project repositories is well-organized, with clear `README.md` files, commented code, and any necessary data files (or instructions on how to obtain large datasets).
-* **Use Descriptive URLs:** Make your repository names descriptive (e.g., `gps-anomaly-detection`, `personality-eda`, `sentiment-analysis-nlp`).
-* **Commit History:** Ensure your commits are clean and demonstrate your development process for each project.
 
-By following this strategy, you provide a single, organized entry point for the recruiter, allowing them to easily explore the breadth and depth of your data science work.
