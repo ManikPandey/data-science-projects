@@ -69,6 +69,7 @@ Welcome to my portfolio of data science projects, showcasing my skills in data a
     * **Ridge, Lasso, & ElasticNet Regression:**  Implemented these three advanced linear models to handle potential multicollinearity and prevent overfitting.
     * **Cross-Validated Hyperparameter Tuning:** Utilized Scikit-learn's `RidgeCV`, `LassoCV`, and `ElasticNetCV` to automatically and efficiently find the optimal regularization strength `(alpha)` for each model, ensuring robustness.
 * **Model Evaluation** Evaluated the final model on a held-out test set. The model demonstrated strong predictive power, achieving an R-squared (R2) of 0.9199, indicating it explains 92% of the variance in electricity costs. The Root Mean Squared Error (RMSE) was $313.99 and the Mean Absolute Error (MAE) was $247.62, quantifying the model's high accuracy in predicting monthly expenditures.
+
 **[Go to Project Repository](https://github.com/ManikPandey/data-science-projects/blob/main/FinalAssignment_v1.ipynb)**
 
 
