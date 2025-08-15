@@ -54,5 +54,25 @@ Welcome to my portfolio of data science projects, showcasing my skills in data a
 
 ---
 
+## 3.  Predictive Modeling of Electricity Costs Regression
+
+**Description:** This project develops and compares several regularized linear regression models to accurately predict monthly electricity costs. Using a dataset of modern infrastructure sites, the analysis identifies the key drivers of energy expenditure through feature importance analysis.
+
+**Key Technologies:**Python (Pandas, NumPy, Scikit-learn), Machine Learning (Regression), Data Preprocessing, Hyperparameter Tuning.
+
+**Technical Details:**
+* **Data Preparation:**Loaded a clean dataset of 10,000 records, standardized column names for consistency, and verified data integrity, confirming no missing values.
+* **Feature Engineering & Preprocessing:**
+         * **Standard Scaling:** Applied `StandardScaler` to all numerical features to normalize their distributions, a crucial step for regularized regression.
+         * **One-Hot Encoding:** Converted the categorical `structure type` feature into a numerical format using `OneHotEncoder` to make it compatible with the machine learning models.
+* **Machine Learning Models:**
+    * **Ridge, Lasso, & ElasticNet Regression:**  Implemented these three advanced linear models to handle potential multicollinearity and prevent overfitting.
+    * **Cross-Validated Hyperparameter Tuning:** Utilized Scikit-learn's `RidgeCV`, `LassoCV`, and `ElasticNetCV` to automatically and efficiently find the optimal regularization strength `(alpha)` for each model, ensuring robustness.
+* **Model Evaluation** Evaluated the final model on a held-out test set. The model demonstrated strong predictive power, achieving an R-squared (R2) of 0.9199, indicating it explains 92% of the variance in electricity costs. The Root Mean Squared Error (RMSE) was $313.99 and the Mean Absolute Error (MAE) was $247.62, quantifying the model's high accuracy in predicting monthly expenditures.
+**[Go to Project Repository](https://github.com/ManikPandey/data-science-projects/blob/main/FinalAssignment_v1.ipynb)**
+
+
+---
+
 
 
