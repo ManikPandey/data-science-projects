@@ -17,7 +17,7 @@ Welcome to my portfolio of data science projects, showcasing my skills in data a
 * **Visualization:** Interactive maps generated with Folium to display historical trips, the "normal" route, and highlighted anomalous segments.
 * **Scalability Discussion:** Conceptual outline for distributed processing using PySpark for large-scale trajectory analysis, including window functions and UDFs.
 
-**[Go to Project Repository](https://github.com/your-username/gps-anomaly-project)**
+**[Go to Project Repository](https://github.com/ManikPandey/GPS-Anomaly-Detection-Route-Generation-Trajectories)**
 
 ---
 
@@ -32,7 +32,7 @@ Welcome to my portfolio of data science projects, showcasing my skills in data a
 * **Feature Engineering:** Calculated Big Five trait scores as the mean of 10 respective items. Applied outlier capping and Box-Cox transformation to `testelapse` for normalization.
 * **Statistical Analysis:** Generated descriptive statistics, visualized trait distributions (histograms), and explored inter-trait relationships using Pearson correlation (e.g., Extraversion and Openness: `r = 0.149, p < 0.001`). Conducted hypothesis tests on trait relationships with completion time.
 
-**[Go to Project Repository](https://github.com/ManikPandey/GPS-Anomaly-Detection-Route-Generation-Trajectories)**
+**[Go to Project Repository](https://github.com/ManikPandey/EDA_on_big-five-personality-test-Dataset)**
 
 ---
 
