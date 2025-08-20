@@ -54,7 +54,7 @@ Welcome to my portfolio of data science projects, showcasing my skills in data a
 
 ---
 
-## 3.  Predictive Modeling of Electricity Costs Regression
+## 4.  Predictive Modeling of Electricity Costs Regression
 
 **Description:** This project develops and compares several regularized linear regression models to accurately predict monthly electricity costs. Using a dataset of modern infrastructure sites, the analysis identifies the key drivers of energy expenditure through feature importance analysis.
 
